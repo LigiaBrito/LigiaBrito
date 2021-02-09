@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ligia</h1>
+<h1 align="left">Hi, I'm Ligia  👋 👩‍💻</h1>
 <h3 align="left">Software Developer trying to improve the world with technologies</h3>
 
 - 📫 How to reach me **ligiaferreirabrito@gmail.com**
