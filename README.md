@@ -3,7 +3,7 @@
 
 - 🎓 Atualmente cursando Desenvolvimento Sistemas na FATEC Campinas
 - 🔭 Interessada na área de back-end e suas tecnologias
-- 🌱 Recentemente estudando Python
+- 🌱 Recentemente estudando Javascript
 - ⚡️ Fun fact: Music Nerd
 
 <h3 align="left">✨ Habilidades:</h3>
