@@ -62,7 +62,7 @@
  <br>
   <img  src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/ac59f054-d3c3-49a6-b2b9-d8ddaa06840e" width=13.7%/>
   </br>
-  <img src="https://github-profile-trophy.vercel.app/?username=LigiaBrito&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title=Commit,Stars,Repo"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LigiaBrito&theme=dracula&row=2&column=3&margin-w=15&margin-h=15&title=Commit,Stars,Repo"/>
  </div>
  
 <img align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/5289ac28-2e76-4630-b039-f2a5a671f636" width=10% />
