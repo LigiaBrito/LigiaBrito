@@ -34,9 +34,10 @@
 </a>
 <img align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/246d5d94-bb14-4e64-922b-44aa469ed097" width=10%/>
 
-
-💌 Fale comigo
 ---
+<h3 align="left">💌 Fale comigo</h3>
+
+
 <div>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/ligia-ferreira-brito/"/></img>
 </div>
