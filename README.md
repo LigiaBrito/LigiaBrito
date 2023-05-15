@@ -1,5 +1,6 @@
+![header](https://github.com/LigiaBrito/LigiaBrito/assets/36477326/760a26ee-fd6e-439b-82e7-041633acdadf)
 
-![White Minimalist Gaming Twitch Banner](https://github.com/LigiaBrito/LigiaBrito/assets/36477326/b158a7be-62b1-4edb-b594-b20716848a84)
+
 
 
 ---
