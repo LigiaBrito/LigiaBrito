@@ -49,19 +49,14 @@
  <a href="https://github.com/LigiaBrito/java-bancodigital">
  <img width=60% align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/9510dcac-8b9c-462d-b52c-f5c23ac11118"/>
   <a/>
-</div>
-
-<h3 align="left">📌 Outros projetos:</h3>
- 
- 
-<div align="center" >
+ <h4> Outros projetos </h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=html-guitarstop&layout=compact&show_icons=true&theme=jolly" width=35% />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=php-lanchonete&layout=compact&show_icons=true&theme=jolly" width=35% />
 </div>
 
 
 ---
-<h3 align="left">📌 Status</h3>
+<h3 align="left">📊 Status</h3>
  
   <div align=center>
  <br>
@@ -84,7 +79,9 @@
 
 
 <div>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/ligia-ferreira-brito/"/></img>
+ <a href="https://www.linkedin.com/in/ligia-ferreira-brito/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
 </div>
 
           
