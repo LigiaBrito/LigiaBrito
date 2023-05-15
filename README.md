@@ -1,15 +1,33 @@
 ![header](https://github.com/LigiaBrito/LigiaBrito/assets/36477326/760a26ee-fd6e-439b-82e7-041633acdadf)
-
-
 <img src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/d60fc49f-d51e-4405-8a85-9228f7897e9c" height=5px width=100%/>
 
 <h3 align="left">👩‍💻 Sobre mim</h3>
-<img width="40%" align="right" src="https://github-profile-trophy.vercel.app/?username=LigiaBrito&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title=Commit,Stars,Repo"/>
+
+
+ <div align=left width=20%>
+  <ul>
+   <li>🎓 Cursando Desenvolvimento Sistemas na FATEC Campinas</li>
+    <li>🔭 Entusiasta de backend</li>
+    <li>🌱 Recentemente estudando React</li>
+    <li>⚡️ Fun fact: Music Nerd</li>
+  </ul>
+ </div>
+ 
+
+
+
+
+
+<!--  
+ <div align=left>
  
 - 🎓 Cursando Desenvolvimento Sistemas na FATEC Campinas
 - 🔭 Entusiasta de backend
 - 🌱 Recentemente estudando React
 - ⚡️ Fun fact: Music Nerd
+ 
+</div> -->
+
 
 
 
@@ -34,6 +52,8 @@
 </div>
 
 <h3 align="left">📌 Outros projetos:</h3>
+ 
+ 
 <div align="center" >
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=html-guitarstop&layout=compact&show_icons=true&theme=jolly" width=35% />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=php-lanchonete&layout=compact&show_icons=true&theme=jolly" width=35% />
@@ -42,6 +62,14 @@
 
 ---
 <h3 align="left">📌 Status</h3>
+ 
+  <div align=center>
+ <br>
+  <img  src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/ac59f054-d3c3-49a6-b2b9-d8ddaa06840e" width=13.7%/>
+  </br>
+  <img src="https://github-profile-trophy.vercel.app/?username=LigiaBrito&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title=Commit,Stars,Repo"/>
+ </div>
+ 
 <img align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/5289ac28-2e76-4630-b039-f2a5a671f636" width=10% />
 <a href="https://github.com/LigiaBrito"> 
   <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api?username=LigiaBrito&show_icons=true&theme=jolly&hide=contribs,issues"/>
