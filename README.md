@@ -27,10 +27,10 @@
 ---
 <img align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/5289ac28-2e76-4630-b039-f2a5a671f636" width=10%/>
 <a href="https://github.com/LigiaBrito"> 
-  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api?username=LigiaBrito&show_icons=true&theme=jolly&hide=contribs,issues"/>
+  <img align="center" height="135px" src="https://github-readme-stats.vercel.app/api?username=LigiaBrito&show_icons=true&theme=jolly&hide=contribs,issues"/>
 </a>
 <a href="https://github.com/LigiaBrito">
-  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LigiaBrito&hide=hack&layout=compact&theme=buefy" />
+  <img align="center" height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LigiaBrito&hide=hack&layout=compact&theme=buefy" />
 </a>
 <img align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/246d5d94-bb14-4e64-922b-44aa469ed097" width=10%/>
 
