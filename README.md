@@ -51,7 +51,7 @@
   <a/>
  <h4> Outros projetos </h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=html-guitarstop&layout=compact&show_icons=true&theme=jolly" width=35% />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=php-lanchonete&layout=compact&show_icons=true&theme=jolly" width=35% />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=php-lanchonete&layout=compact&show_icons=true&theme=jolly" width=40% />
 </div>
 
 
