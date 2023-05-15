@@ -16,31 +16,15 @@
 
 
 
-
-
-<!--  
- <div align=left>
- 
-- 🎓 Cursando Desenvolvimento Sistemas na FATEC Campinas
-- 🔭 Entusiasta de backend
-- 🌱 Recentemente estudando React
-- ⚡️ Fun fact: Music Nerd
- 
-</div> -->
-
-
-
-
 ---
 
-<p align="center">
- 
-</p>
 
 <h3 align="left">✨ Habilidades</h3>
 <p align="left"><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   </a> </p>
+
+---
 
 <h3 align="left">👇 Meu último projeto</h3>
 <div align="center">
@@ -70,7 +54,7 @@
   <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api?username=LigiaBrito&show_icons=true&theme=jolly&hide=contribs,issues"/>
 </a>
 <a href="https://github.com/LigiaBrito">
-  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LigiaBrito&hide=hack&layout=compact&theme=buefy" />
+  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LigiaBrito&hide=hack&layout=compact&theme=jolly" />
 </a>
 <img align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/246d5d94-bb14-4e64-922b-44aa469ed097" width=10%/>
 
