@@ -3,7 +3,6 @@
 
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
-
  <div align=left width=20%>
   <ul>
    <li>🎓 Cursando Desenvolvimento Sistemas na FATEC Campinas</li>
@@ -12,9 +11,6 @@
     <li>⚡️ Fun fact: Music Nerd</li>
   </ul>
  </div>
- 
-
-
 
 ---
 
@@ -30,9 +26,10 @@
 <div align="center">
  
  <h4>Banco Digital em Java</h4>
- <a href="https://github.com/LigiaBrito/java-bancodigital">
- <img width=60% align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/9510dcac-8b9c-462d-b52c-f5c23ac11118"/>
-  <a/>
+ 
+ <img width=60% align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/9510dcac-8b9c-462d-b52c-f5c23ac11118"> 
+  <a href="https://github.com/LigiaBrito/java-bancodigital"/>
+ </img>
  <h4> Outros projetos </h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=html-guitarstop&layout=compact&show_icons=true&theme=jolly" width=35% />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=php-lanchonete&layout=compact&show_icons=true&theme=jolly" width=40% />
