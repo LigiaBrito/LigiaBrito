@@ -24,9 +24,8 @@
 
 <h3 align="left">👇 Meu último projeto</h3>
 <div align="center">
- 
  <h4><a href="https://github.com/LigiaBrito/twitter-clone-app">Twitter clone</a></h4>
- <img width=60% align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/2a7050d3-30d3-4b8d-9ead-a2eb0d367bc3"/>
+ <img width=65% align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/0adc8d69-3507-40fa-9909-ed3aef59e8b2"/>
 
  <h4> Outros projetos </h4>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=java-bancodigital&layout=compact&show_icons=true&theme=jolly" width=35% />
