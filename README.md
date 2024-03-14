@@ -5,7 +5,7 @@
 
  <div align=left width=20%>
   <ul>
-   <li>🎓 Cursando Desenvolvimento Sistemas na FATEC Campinas</li>
+    <li>🎓 Formada em Análise e Desenvolvimento de Sistemas</li>
     <li>🔭 Entusiasta de backend</li>
     <li>🌱 Recentemente estudando React</li>
     <li>⚡️ Fun fact: Music Nerd</li>
