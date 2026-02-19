@@ -27,10 +27,10 @@
  <h4><a href="https://github.com/LigiaBrito/twitter-clone-app">Twitter clone</a></h4>
  <img width=65% align="center" src="https://github.com/LigiaBrito/LigiaBrito/assets/36477326/0adc8d69-3507-40fa-9909-ed3aef59e8b2"/>
 
- <h4> Outros projetos </h4>
+ <!--<h4> Outros projetos </h4>
 <a href="https://github.com/LigiaBrito/java-bancodigital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=java-bancodigital&layout=compact&show_icons=true&theme=jolly" width=35% /> </a>
 <a href="https://github.com/LigiaBrito/php-lanchonete"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=LigiaBrito&repo=php-lanchonete&layout=compact&show_icons=true&theme=jolly" width=40% /> </a>
-</div>
+</div> -->
 
 
 ---
